@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(62, 62, 62);
+    border: 3px solid grey;
+    text-align: center;
+    color: white;
+}
+
+.nav_link{
+    text-decoration: underline;
+    color: rgb(3, 220, 3);
+}
+
+.footer_links{
+    text-align: none;
+    color: rgb(0, 227, 0);
+    
+}
+
+footer{
+    text-align: left;
+}
+
+p{
+    line-height: 30px;
+}
