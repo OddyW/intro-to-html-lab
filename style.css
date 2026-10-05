@@ -23,3 +23,7 @@ footer{
 p{
     line-height: 30px;
 }
+
+img{
+     display: block; margin: 0 auto;
+}
